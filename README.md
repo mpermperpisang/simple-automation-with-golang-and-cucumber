@@ -2,6 +2,8 @@
 - [x] Install Go - https://golang.org/dl/
 - [x] Install Godog - https://github.com/cucumber/godog
 - [x] Install env - https://github.com/joho/godotenv
+or
+- [x] go mod download
 
 ### Env
 - [x] `cp env.sample .env`
