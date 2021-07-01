@@ -1,7 +1,7 @@
 ### Installation
 - [x] Install Go - https://golang.org/dl/
 - [x] Install Godog - https://github.com/cucumber/godog
-- [x] Install env - https://github.com/joho/godotenv
+- [x] Install env - https://github.com/joho/godotenv</br>
 or
 - [x] go mod download
 
