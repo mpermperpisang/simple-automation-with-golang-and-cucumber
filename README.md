@@ -1,5 +1,11 @@
 ### Installation
 - [x] Install Go - https://golang.org/dl/
+- [x] Add export .bash_profile (or any profile you usually use)
+```
+export GOROOT=/usr/local/go
+export GOPATH=$HOME/Documents/project/go
+export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+```
 - [x] Install Godog - https://github.com/cucumber/godog
 - [x] Install env - https://github.com/joho/godotenv</br>
 or
