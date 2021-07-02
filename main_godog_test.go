@@ -6,11 +6,11 @@ import (
 	"github.com/simple-automation-with-golang-and-cucumber/features/supports"
 )
 
-func GodogMainSuites(s *godog.TestSuiteContext) {
+func GodogTestSuiteContext(s *godog.TestSuiteContext) {
 	supports.InitializeTestSuite(s)
 }
 
-func GodogMainScenarios(s *godog.ScenarioContext) {
+func GodogScenarioContext(s *godog.ScenarioContext) {
 	supports.InitializeScenario(s)
 	suites.AutomationScenarioStep(s)
 }
