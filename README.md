@@ -1,6 +1,6 @@
 ### Installation
 - [x] Install Go - https://golang.org/dl/
-- [x] Add export .bash_profile (or any profile you usually use)
+- [x] Add export to .bash_profile (or any profile you usually use)
 ```
 export GOROOT=/usr/local/go
 export GOPATH=$HOME/Documents/project/go
